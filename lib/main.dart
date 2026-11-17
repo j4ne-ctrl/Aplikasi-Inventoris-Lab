@@ -28,7 +28,7 @@ class LabVaultApp extends StatelessWidget {
           seedColor: AppColors.techIndigo,
           primary: AppColors.techIndigo,
           secondary: AppColors.techCyan,
-          surface: AppColors.lightCard,
+          surface: AppColors.lightBg,
         ),
         textTheme: GoogleFonts.plusJakartaSansTextTheme(),
       ),
