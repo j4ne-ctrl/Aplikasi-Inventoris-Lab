@@ -2,9 +2,9 @@
 
 Aplikasi mobile **Inventaris Alat Lab** berbasis **Flutter**, terhubung ke **Firebase Authentication** dan **Cloud Firestore** secara real-time. Dibuat untuk Uji Unit Kompetensi (UUK) Mobile, Kelas XI RPL.
 
-> **Nama:** _[isi nama kamu]_  
+> **Nama:** Janeeta Samahat Nowa  
 > **Kelas:** XI RPL  
-> **Mata uji:** UUK Mobile, Hari ke-1
+> **Mata uji:** UUK Mobile, Hari ke-1 dan ke-2
 
 ---
 
