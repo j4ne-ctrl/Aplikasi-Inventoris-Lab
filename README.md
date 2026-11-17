@@ -8,6 +8,12 @@ Aplikasi mobile **Inventaris Alat Lab** berbasis **Flutter**, terhubung ke **Fir
 
 ---
 
+## Video Demo Aplikasi Inventori Alat lab
+
+
+
+
+
 ## Daftar Isi
 
 1. [Fitur](#fitur)
