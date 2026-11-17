@@ -20,22 +20,5 @@ static const Color lightBg = Color(0xFFFFFAFB); // putih dengan sentuhan pink ti
   static const Color bannerMid = Color(0xFF881337);
   static const Color bannerText = Color(0xFFFFE4E6);
 
-  // Tema khusus admin (biru)
-static const Color adminBg = Color(0xFFF1F6FA);
-static const Color adminPrimary = Color(0xFF0369A1);
-static const Color adminDark = Color(0xFF075985);
-static const Color adminAccent = Color(0xFF06B6D4);
-
-static const LinearGradient adminGradient = LinearGradient(
-  begin: Alignment.topLeft,
-  end: Alignment.bottomRight,
-  colors: [Color(0xFF0369A1), Color(0xFF06B6D4)],
-);
-
-static const LinearGradient adminBannerGradient = LinearGradient(
-  begin: Alignment.topLeft,
-  end: Alignment.bottomRight,
-  colors: [Color(0xFF082F49), Color(0xFF0C4A6E), Color(0xFF0369A1)],
-);
-
+  
 }
