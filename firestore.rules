@@ -1,0 +1,17 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Data user: hanya pemilik akun
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+      // Sub-koleksi transaksi peminjaman
+      match /borrowings/{borrowId} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+    }
+    // Inventaris: semua user login boleh CRUD
+    match /items/{itemId} {
+      allow read, write: if request.auth != null;
+    }
+  }
+}

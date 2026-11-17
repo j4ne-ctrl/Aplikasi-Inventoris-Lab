@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698929393947",
+    "project_id": "aplikasiinventarislab",
+    "storage_bucket": "aplikasiinventarislab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698929393947:android:15e7d7bd12681c3c3523be",
+        "android_client_info": {
+          "package_name": "com.example.inventarislab_jane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqpSfQ2ePPZYoDUfmNQ-ij8syTs9ZQTQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
