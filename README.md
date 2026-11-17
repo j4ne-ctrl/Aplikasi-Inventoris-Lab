@@ -9,7 +9,7 @@ Aplikasi mobile **Inventaris Alat Lab** berbasis **Flutter**, terhubung ke **Fir
 ---
 
 ## Video Demo Aplikasi Inventori Alat lab
-📺 **[Tonton video demo disini](file:///C:/Users/Lenovo/Videos/Screen%20Recordings/Screen%20Recording%202026-11-17%20143731.mp4)**
+📺 **[Tonton video demo disini](https://drive.google.com/file/d/1K1zYOAdXJnV4L8tcltvMSAkhUCch3kjY/view?usp=sharing)**
 
 ## Daftar Isi
 
